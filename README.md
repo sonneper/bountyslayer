@@ -1,5 +1,3 @@
-## 🧠 Vision
-
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Licence MIT">
   <img src="https://img.shields.io/badge/language-bash-4EAA25.svg" alt="Bash">
@@ -9,9 +7,8 @@
 
 <h1 align="center">💰 Bounty Slayer AI</h1>
 <h3 align="center">Autonomous Bug Bounty & Pentesting Engine with Reinforcement Learning</h3>
-
 ---
-
+## 🧠 Vision
 **Bounty Slayer AI** est le couteau suisse des chasseurs de primes et des équipes Red Team.  
 Il automatise l’intégralité d’un test d’intrusion moderne – de la découverte des sous-domaines à la génération de **Proof-of-Concepts (PoC) exploitables** – en s’appuyant sur un **apprentissage par renforcement** qui augmente vos gains HackerOne à chaque scan.
 
