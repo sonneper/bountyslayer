@@ -1,3 +1,4 @@
+<h1 align="center">💰 Bounty Slayer AI</h1>
 <p align="center">
   <img src="https://img.shields.io/badge/license-MIT-blue.svg" alt="Licence MIT">
   <img src="https://img.shields.io/badge/language-bash-4EAA25.svg" alt="Bash">
@@ -5,7 +6,6 @@
   <img src="https://img.shields.io/badge/AI-Reinforcement%20Learning-brightgreen" alt="IA">
 </p>
 
-<h1 align="center">💰 Bounty Slayer AI</h1>
 <h3 align="center">Autonomous Bug Bounty & Pentesting Engine with Reinforcement Learning</h3>
 ---
 ## 🧠 Vision
@@ -92,7 +92,7 @@ Ainsi, l’outil apprend **quelles failles rapportent le plus** sur vos programm
 ### Quick start
 
 ```bash
-git clone https://github.com/<votre-utilisateur>/bounty-slayer-ai.git
+git clone https://github.com/sonneper/bounty-slayer-ai.git
 cd bounty-slayer-ai
 chmod +x bountyslayer.sh
 ./bountyslayer.sh example.com
